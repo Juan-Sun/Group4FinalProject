@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/galleryFont.spritefont</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_0.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_1.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_2.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_3.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_4.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze-block.png</File>
+    <File>C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/white.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

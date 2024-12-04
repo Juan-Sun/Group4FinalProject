@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|c:\\game systems\\prog2370_finalproject_ericagoodman\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|c:\\game systems\\prog2370_finalproject_ericagoodman\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|c:\\game systems\\prog2370_finalproject_ericagoodman\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|solutionrelative:maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|c:\\game systems\\prog2370_finalproject_ericagoodman\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BBF0CF-B362-4DAD-AFAA-943327D452C1}|PROG2370_FinalProject_EricaGoodman.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Controller.cs",
+              "RelativeDocumentMoniker": "Controller.cs",
+              "ToolTip": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Controller.cs",
+              "RelativeToolTip": "Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:52:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Maze.cs",
+              "RelativeDocumentMoniker": "Maze.cs",
+              "ToolTip": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Maze.cs",
+              "RelativeToolTip": "Maze.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAASwIQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:18:36.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:41:10.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Game Systems\\PROG2370_FinalProject_EricaGoodman\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:40:08.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

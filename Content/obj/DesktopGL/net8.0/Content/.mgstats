@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/galleryFont.spritefont","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.3558063
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_0.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze_0.xnb","TextureProcessor","Texture2DContent",4050,360085,0.1962793
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_1.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze_1.xnb","TextureProcessor","Texture2DContent",4140,360085,0.0202886
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_2.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze_2.xnb","TextureProcessor","Texture2DContent",3879,360085,0.0164236
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_3.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze_3.xnb","TextureProcessor","Texture2DContent",3387,360085,0.0149175
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze_4.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze_4.xnb","TextureProcessor","Texture2DContent",3507,360085,0.0142766
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/Maze-block.png","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/Maze-block.xnb","TextureProcessor","Texture2DContent",250,14485,0.0298427
+"C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/white.jpg","C:/Game Systems/PROG2370_FinalProject_EricaGoodman/Content/bin/DesktopGL/Content/white.xnb","TextureProcessor","Texture2DContent",720,1685,0.2795507
