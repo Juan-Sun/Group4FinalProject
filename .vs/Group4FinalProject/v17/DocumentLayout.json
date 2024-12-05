@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jumon\\source\\repos\\Group4FinalProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\FinalProjGameDesign\\Juan\\Group4FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4F2401-2F92-4DFC-894B-18E1B55591EB}|Group4FinalProject\\Group4FinalProject.csproj|c:\\finalprojgamedesign\\juan\\group4finalproject\\group4finalproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4F2401-2F92-4DFC-894B-18E1B55591EB}|Group4FinalProject\\Group4FinalProject.csproj|solutionrelative:group4finalproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4F2401-2F92-4DFC-894B-18E1B55591EB}|Group4FinalProject\\Group4FinalProject.csproj|c:\\finalprojgamedesign\\juan\\group4finalproject\\group4finalproject\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4F2401-2F92-4DFC-894B-18E1B55591EB}|Group4FinalProject\\Group4FinalProject.csproj|solutionrelative:group4finalproject\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\FinalProjGameDesign\\Juan\\Group4FinalProject\\Group4FinalProject\\Controller.cs",
+              "RelativeDocumentMoniker": "Group4FinalProject\\Controller.cs",
+              "ToolTip": "C:\\FinalProjGameDesign\\Juan\\Group4FinalProject\\Group4FinalProject\\Controller.cs",
+              "RelativeToolTip": "Group4FinalProject\\Controller.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:02:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\FinalProjGameDesign\\Juan\\Group4FinalProject\\Group4FinalProject\\Game1.cs",
+              "RelativeDocumentMoniker": "Group4FinalProject\\Game1.cs",
+              "ToolTip": "C:\\FinalProjGameDesign\\Juan\\Group4FinalProject\\Group4FinalProject\\Game1.cs",
+              "RelativeToolTip": "Group4FinalProject\\Game1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:06:06.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
