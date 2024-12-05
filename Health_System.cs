@@ -6,7 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.Json.Serialization.Metadata;
 using System.Threading.Tasks;
-
+using Group4FinalProject;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -19,14 +19,12 @@ namespace final_projectM
         //replace player with proper player property
         public bool didCollisionHappen(Player p, Enemies e)
         {
-            int playerRadius = p.getRadius();
-            int eRadius = Enemies.radius;
-            int distance = playerRadius + eRadius;
-            if (Vector2.Distance(p.position, e.position) < distance)
+            
+            if (p.hitbox.Intersects(e.position))
             {
                 return true;
             }
-
+            
             return false;
         }
     }
